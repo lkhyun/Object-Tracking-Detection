@@ -16,7 +16,7 @@
 - **샘플링 주파수:** 17 Hz (1초당 17 프레임 수집)  
 - **실험 대상:** 60명 
 - **수집 방법:**
-   -  ![image](https://github.com/user-attachments/assets/3ea50f4b-0f1d-4faa-8548-b14c94936006)
+     ![image](https://github.com/user-attachments/assets/3ea50f4b-0f1d-4faa-8548-b14c94936006)
    - 나누어진 구역을 3초에 한번씩 이동하는 시나리오(5분)
 - **데이터 크기:**  
    - 피험자 당 **4284 프레임** 
