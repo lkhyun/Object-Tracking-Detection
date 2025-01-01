@@ -31,7 +31,8 @@
 - **정규화 기법:** Z-score Normalization을 거리 축에 적용  
    -  $z = \frac{x - \mu}{\sigma}$  
 
-### **3.2. LOG 적용**  
+### **3.2. threshold 설정과 LOG 적용**  
+- $threshold = \mu + 3\sigma$
 - 값들에 LOG를 적용하여 신호가 더 도드라지게 처리.
 
 ### **3.3. moving everage filter**
