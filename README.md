@@ -29,7 +29,7 @@
 
 ### **3.1. 데이터 정규화**   
 - **정규화 기법:** Z-score Normalization을 거리 축에 적용  
-   -  \( z = \frac{x - \mu}{\sigma} \)  
+   -  $z = \frac{x - \mu}{\sigma}$  
 
 ### **3.2. LOG 적용**  
 - 값들에 LOG를 적용하여 신호가 더 도드라지게 처리.
