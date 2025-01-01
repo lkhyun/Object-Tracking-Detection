@@ -78,7 +78,8 @@
 - **모델:** Pretrained Vision Transformer (ViT) Fine-tuning
      - huggingface 라이브러리를 이용하여 cifar10으로 pretrained ViT를 사용
      - vit_fold_model_selection.py 파일을 이용하여 데이터셋에 맞는 모델을 탐색 후 사용.
-**최종 모델**: vit_small_patch16_224
+  
+- **최종 모델**: vit_small_patch16_224
 ---
 
 ## **5. 프로젝트 결과 요약**  
@@ -92,7 +93,7 @@
 - 레이더마다 모델을 다르게 사용하였고 라벨링도 다르게 하였는데 이는 상호 보완적인 결과가 더 좋을 것으로 예상했기 때문.
 - 동일한 모델로 두 데이터를 학습시켜보는 시도가 필요해보임.
 
-3. **Experiment**
+2. **Experiment**
 - 실험 시나리오를 기역자 구역을 왕복하도록 구성하였는데 이는 너무 사용 범위가 제한적임.
 - 구역을 좀 더 확장하고 다양한 이동 시나리오를 구상해보았으면 더 높은 확장성을 지니지 않았을까 생각함. 
 - **Vital-sign monitoring and spatial tracking of multiple people using a contactless radar-based sensor**
